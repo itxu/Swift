@@ -31,6 +31,7 @@ class RecipesController: WKInterfaceController {
     // 2
     table.insertRows(at: NSIndexSet(index: rows) as IndexSet, withRowType: "HeaderRowType")
 
+    
     // 3
     let itemRows = NSIndexSet(indexesIn: NSRange(location: rows + 1, length: recipes.count))
     table.insertRows(at: itemRows as IndexSet, withRowType: "RecipeRowType")
