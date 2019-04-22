@@ -261,14 +261,17 @@
 				TargetAttributes = {
 					76EC27111B6F2B60006D4FAE = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
 					};
 					76EC272E1B6F2BED006D4FAE = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
 					};
 					76EC273A1B6F2BED006D4FAE = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
 					};
 				};
@@ -278,6 +281,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -500,7 +504,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = BigMovers/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -515,7 +519,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = BigMovers/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -530,7 +534,7 @@
 		76EC274B1B6F2BED006D4FAE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "BigMovers for watchOS Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.raywenderlich.BigMovers.watchkitapp.watchkitextension;
@@ -547,7 +551,7 @@
 		76EC274C1B6F2BED006D4FAE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "BigMovers for watchOS Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.raywenderlich.BigMovers.watchkitapp.watchkitextension;
@@ -567,7 +571,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				IBSC_MODULE = BigMovers_for_watchOS_Extension;
 				INFOPLIST_FILE = "BigMovers for watchOS/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.raywenderlich.BigMovers.watchkitapp;
@@ -586,7 +590,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				IBSC_MODULE = BigMovers_for_watchOS_Extension;
 				INFOPLIST_FILE = "BigMovers for watchOS/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.raywenderlich.BigMovers.watchkitapp;

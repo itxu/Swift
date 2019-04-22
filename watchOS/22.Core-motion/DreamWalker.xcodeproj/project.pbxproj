@@ -283,18 +283,21 @@
 				TargetAttributes = {
 					4095847D1B645E6B00949FF7 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 					4095848F1B645E6B00949FF7 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0800;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 					4095849E1B645E6C00949FF7 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -303,6 +306,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -524,8 +528,9 @@
 		409584AE1B645E6C00949FF7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "DreamWalker WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.DreamWalker.watchkitapp.watchkitextension;
@@ -543,8 +548,9 @@
 		409584AF1B645E6C00949FF7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "DreamWalker WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.DreamWalker.watchkitapp.watchkitextension;
@@ -565,8 +571,9 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				IBSC_MODULE = DreamWalker_WatchKit_Extension;
 				INFOPLIST_FILE = "DreamWalker WatchKit App/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.DreamWalker.watchkitapp;
@@ -585,8 +592,9 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				IBSC_MODULE = DreamWalker_WatchKit_Extension;
 				INFOPLIST_FILE = "DreamWalker WatchKit App/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.DreamWalker.watchkitapp;
@@ -604,8 +612,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = DreamWalker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.DreamWalker;
@@ -620,8 +629,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = DreamWalker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.DreamWalker;

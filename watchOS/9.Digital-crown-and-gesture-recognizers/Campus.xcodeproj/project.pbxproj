@@ -254,16 +254,19 @@
 				TargetAttributes = {
 					76D475031D6C3435000CF478 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 					76D475151D6C3435000CF478 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 					76D475241D6C3435000CF478 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
@@ -274,6 +277,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -495,7 +499,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "Campus WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.Campus.watchkitapp.watchkitextension;
@@ -512,7 +516,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "Campus WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.Campus.watchkitapp.watchkitextension;
@@ -530,7 +534,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				IBSC_MODULE = Campus_WatchKit_Extension;
 				INFOPLIST_FILE = "Campus WatchKit App/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.Campus.watchkitapp;
@@ -548,7 +552,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				IBSC_MODULE = Campus_WatchKit_Extension;
 				INFOPLIST_FILE = "Campus WatchKit App/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.Campus.watchkitapp;
@@ -565,7 +569,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = Campus/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.Campus;
@@ -579,7 +583,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = Campus/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.Campus;

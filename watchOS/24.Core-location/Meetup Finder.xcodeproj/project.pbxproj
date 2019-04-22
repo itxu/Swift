@@ -315,10 +315,12 @@
 				TargetAttributes = {
 					4B0D52BC1B6DEFC60081A7C7 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						DevelopmentTeamName = "Soheil Moayedi Azarpour";
 					};
 					4B0D52C81B6DEFC60081A7C7 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						DevelopmentTeamName = "Soheil Moayedi Azarpour";
 						LastSwiftMigration = 0900;
 						SystemCapabilities = {
@@ -329,6 +331,7 @@
 					};
 					4BEDE4641B6D5AAF00E9E699 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						DevelopmentTeamName = "Soheil Moayedi Azarpour";
 						LastSwiftMigration = 0900;
 					};
@@ -339,6 +342,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -477,7 +481,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				IBSC_MODULE = Meetup_Finder_Watch_Extension;
 				INFOPLIST_FILE = "Meetup Finder Watch/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.razeware.Meetup-Finder.watchkitapp";
@@ -493,7 +497,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				IBSC_MODULE = Meetup_Finder_Watch_Extension;
 				INFOPLIST_FILE = "Meetup Finder Watch/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.razeware.Meetup-Finder.watchkitapp";
@@ -507,7 +511,7 @@
 		4B0D52DA1B6DEFC60081A7C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "Meetup Finder Watch Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.razeware.Meetup-Finder.watchkitapp.watchkitextension";
@@ -521,7 +525,7 @@
 		4B0D52DB1B6DEFC60081A7C7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "Meetup Finder Watch Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.razeware.Meetup-Finder.watchkitapp.watchkitextension";
@@ -636,7 +640,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "Meetup Finder/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.razeware.Meetup-Finder";
@@ -648,7 +652,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "Meetup Finder/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.razeware.Meetup-Finder";

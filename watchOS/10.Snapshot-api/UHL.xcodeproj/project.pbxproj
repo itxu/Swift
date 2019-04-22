@@ -243,16 +243,19 @@
 				TargetAttributes = {
 					7669ACF71D5AE4C70035DB9D = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 					7669AD091D5AE4C70035DB9D = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 					7669AD181D5AE4C80035DB9D = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
@@ -263,6 +266,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -488,7 +492,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "UHL WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.UHL.watchkitapp.watchkitextension;
@@ -505,7 +509,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "UHL WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.UHL.watchkitapp.watchkitextension;
@@ -523,7 +527,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				IBSC_MODULE = UHL_WatchKit_Extension;
 				INFOPLIST_FILE = "UHL WatchKit App/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.UHL.watchkitapp;
@@ -541,7 +545,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				IBSC_MODULE = UHL_WatchKit_Extension;
 				INFOPLIST_FILE = "UHL WatchKit App/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.UHL.watchkitapp;
@@ -558,7 +562,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = UHL/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.UHL;
@@ -572,7 +576,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = UHL/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.UHL;

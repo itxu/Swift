@@ -315,14 +315,17 @@
 				TargetAttributes = {
 					4DF83ED31B58954500A30DC7 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
 					};
 					4DF83EEB1B58957100A30DC7 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0800;
 					};
 					4DF83EF71B58957100A30DC7 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
 					};
 				};
@@ -332,6 +335,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -563,6 +567,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = TideWatch/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -577,6 +582,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = TideWatch/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -591,6 +597,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "TideWatch WatchKit App Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.TideWatch.watchkitapp.watchkitextension;
@@ -606,6 +613,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "TideWatch WatchKit App Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.TideWatch.watchkitapp.watchkitextension;
@@ -623,6 +631,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				IBSC_MODULE = TideWatch_WatchKit_App_Extension;
 				INFOPLIST_FILE = "TideWatch WatchKit App/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.TideWatch.watchkitapp;
@@ -640,6 +649,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				IBSC_MODULE = TideWatch_WatchKit_App_Extension;
 				INFOPLIST_FILE = "TideWatch WatchKit App/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.TideWatch.watchkitapp;

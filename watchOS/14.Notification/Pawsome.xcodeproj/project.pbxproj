@@ -246,14 +246,17 @@
 				TargetAttributes = {
 					4AF08BFF1B3F03280062A0AB = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
 					};
 					4AF08C311B3F1B4A0062A0AB = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
 					};
 					4AF08C3D1B3F1B4A0062A0AB = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = RGZATX49X6;
 						LastSwiftMigration = 0900;
 					};
 				};
@@ -263,6 +266,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -477,6 +481,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = Pawsome/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -491,6 +496,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = Pawsome/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -506,6 +512,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "PawsomeWatch Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.Pawsome.watchkitapp.watchkitextension;
@@ -523,6 +530,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				INFOPLIST_FILE = "PawsomeWatch Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.Pawsome.watchkitapp.watchkitextension;
@@ -543,6 +551,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				IBSC_MODULE = PawsomeWatch_Extension;
 				INFOPLIST_FILE = PawsomeWatch/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.Pawsome.watchkitapp;
@@ -562,6 +571,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = RGZATX49X6;
 				IBSC_MODULE = PawsomeWatch_Extension;
 				INFOPLIST_FILE = PawsomeWatch/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.Pawsome.watchkitapp;
